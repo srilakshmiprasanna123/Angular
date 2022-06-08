@@ -1,0 +1,10 @@
+.div{
+    text-align: center;
+    font-size: x-large;
+}
+.error-output{
+    margin-left: 10px;
+    font-size: 12px;
+    font-style: italic;
+    color: blue;
+}
